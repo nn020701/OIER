@@ -1,6 +1,0 @@
-http://codeforces.com/contest/392/problem/B
-http://codeforces.com/contest/383/problem/D
-http://codeforces.com/contest/404/problem/D
-http://codeforces.com/contest/429/problem/B
-http://codeforces.com/contest/459/problem/E
-http://codeforces.com/contest/479/problem/E
