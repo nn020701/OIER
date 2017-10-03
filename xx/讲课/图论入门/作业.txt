@@ -1,0 +1,17 @@
+最短路
+http://acm.hdu.edu.cn/showproblem.php?pid=1596（中等）·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=2433（稍难）	    
+http://acm.hdu.edu.cn/showproblem.php?pid=2112（基础）·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=1874（基础）·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=2544（基础）·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=2680（中等）·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=2647（稍难）·W·
+http://acm.hdu.edu.cn/showproblem.php?pid=1690（中等）·W· AC
+http://www.lydsy.com/JudgeOnline/problem.php?id=2662 (基础) AC
+http://www.lydsy.com/JudgeOnline/problem.php?id=2763 (基础) AC
+
+MST:
+http://poj.org/problem?id=1251                        ·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=1879        ·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=1863        ·W· AC
+http://acm.hdu.edu.cn/showproblem.php?pid=1875        ·W· AC

@@ -1,0 +1,18 @@
+例题：
+表达式求值（NOIp2013普及组T2）                                             
+等价表达式（NOIp2005提高组T4）
+梦幻布丁（HNOI2009）：http://www.lydsy.com/JudgeOnline/problem.php?id=1483
+棋盘制作（ZJOI2007）：http://www.lydsy.com/JudgeOnline/problem.php?id=1057 
+
+作业：
+开车旅行（NOIp2012提高组Day1T3）
+营业额统计（HNOI2002）：http://www.lydsy.com/JudgeOnline/problem.php?id=1588 
+理想的正方形（HAOI2007）：http://www.lydsy.com/JudgeOnline/problem.php?id=1047
+水平可见直线（HNOI2008）：http://www.lydsy.com/JudgeOnline/problem.php?id=1007
+生日礼物[SCOI2009]：http://www.lydsy.com/JudgeOnline/problem.php?id=1293
+Pilots[Poi2010]：http://www.lydsy.com/JudgeOnline/problem.php?id=2096
+Temperature[Poi2011]:http://www.lydsy.com/JudgeOnline/problem.php?id=2276
+[Usaco2007 Jan]Balanced Lineup排队:http://www.lydsy.com/JudgeOnline/problem.php?id=1699
+[NOI2010]超级钢琴http://www.lydsy.com/JudgeOnline/problem.php?id=2006
+The Wedding Juicer（USACO 2005 January Gold）：http://poj.org/problem?id=2227
+rausen loves cakes(BestCoder#90 C)： http://acm.split.hdu.edu.cn/showproblem.php?pid=5997

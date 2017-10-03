@@ -1,0 +1,19 @@
+【bzoj1513】[POI2006]Tet-Tetris 3D
+【bzoj3813】奇数国
+【bzoj1645】[Usaco2007 Open]City Horizon 城市地平线
+【bzoj1672】[Usaco2005 Dec]Cleaning Shifts 清理牛棚
+【bzoj3038】上帝造题的七分钟2
+【bzoj1067】[SCOI2007]降雨量
+【bzoj3211】花神游历各国
+【bzoj3685】普通van Emde Boas树
+【bzoj1593】[Usaco2008 Feb]Hotel 旅馆
+【bzoj1858】[Scoi2010]序列操作
+
+codevs 3044 矩形面积求并(这个我没讲不过最好掌握一下)
+
+上面那些题还有课件里的简单例题都太傻了，一般可以凭自己解决。
+另外还有课件中的那两道，bzoj上都可以搜到，不会做可以再来问。
+
+提供一个权限号
+ID：LittleRed
+Key：littlered
