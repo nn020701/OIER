@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest>
+    <order>
+        <problem>contest</problem>
+        <problem>number</problem>
+        <problem>machine</problem>
+        <problem>hide</problem>
+    </order>
+</contest>

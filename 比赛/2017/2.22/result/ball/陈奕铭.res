@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task time="0" score="100" state="N">
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.27MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.28MB"/>
+    </subtask>
+    <subtask score="10">
+        <point ratio="1" state="A" note="时间: 0.00s 内存: 0.27MB"/>
+    </subtask>
+</task>

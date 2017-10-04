@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest>
+    <order>
+        <problem>boy</problem>
+        <problem>cf</problem>
+        <problem>lp</problem>
+        <problem>point</problem>
+        <problem>sr</problem>
+    </order>
+</contest>
