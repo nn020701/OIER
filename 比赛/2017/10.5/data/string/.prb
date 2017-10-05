@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problem type="TRA_0_4" maker="ccr-plus" version="1.1.0">
+    <source file="string" dir="string" code="100">
+        <language time="10" cmd="gcc -o string string.c -O2 -lm -static -static -static" file="string.c"/>
+        <language time="10" cmd="g++ -o string string.cpp -O2 -lm -static -static -static" file="string.cpp"/>
+        <language time="10" cmd="fpc string.pas -O2" file="string.pas"/>
+    </source>
+    <task time="10" checker="fulltext" input="string.in" output="string.out">
+        <subtask score="5">
+            <point time="1" mem="512" out="string01.out" in="string01.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string02.out" in="string02.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string03.out" in="string03.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string04.out" in="string04.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string05.out" in="string05.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string06.out" in="string06.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string07.out" in="string07.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string08.out" in="string08.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string09.out" in="string09.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string10.out" in="string10.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string11.out" in="string11.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string12.out" in="string12.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string13.out" in="string13.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string14.out" in="string14.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string15.out" in="string15.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string16.out" in="string16.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string17.out" in="string17.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string18.out" in="string18.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string19.out" in="string19.in"/>
+        </subtask>
+        <subtask score="5">
+            <point time="1" mem="512" out="string20.out" in="string20.in"/>
+        </subtask>
+    </task>
+</problem>
