@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<contest>
-    <order>
-        <problem>diff</problem>
-        <problem>domino</problem>
-        <problem>queue</problem>
-        <problem>star</problem>
-    </order>
-</contest>

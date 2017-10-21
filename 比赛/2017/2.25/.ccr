@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<contest>
-    <order>
-        <problem>stock</problem>
-        <problem>game</problem>
-        <problem>calc</problem>
-    </order>
-</contest>

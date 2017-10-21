@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<contest>
-    <order>
-        <problem>park</problem>
-        <problem>fish</problem>
-        <problem>lift</problem>
-        <problem>tram</problem>
-    </order>
-</contest>
